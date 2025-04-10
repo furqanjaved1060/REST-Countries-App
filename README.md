@@ -26,7 +26,5 @@ A dynamic and interactive application where users can explore detailed informati
 
 ![Desktop Light](https://github.com/user-attachments/assets/fe468a97-9e51-4f87-9ebb-4c452395b360)
 ![Desktop Dark](https://github.com/user-attachments/assets/e9f7cff6-ce4a-4fc4-bb3f-68b925b8e560)
-![Mobile Dark](https://github.com/user-attachments/assets/76dfd39f-f9d9-4017-bdb6-7b9d0b11c5ca)
-![Mobile Light](https://github.com/user-attachments/assets/a08de061-d1ec-4fe6-a3cf-379e09d92721)
-
-![Mobile Light(1)](https://github.com/user-attachments/assets/d6b21f3a-2359-4cd7-ac4c-8eb42edfc07f)
+![Mobile Dark](https://github.com/user-attachments/assets/766417fc-1356-41bf-9652-8dd4df849fc5)
+![Mobile Light](https://github.com/user-attachments/assets/eedf4438-6447-4622-a69c-cb25211fbc69)
