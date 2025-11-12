@@ -8,7 +8,7 @@ const Countries = ({lightMode, inputValue, countries, setcountries, filteredCoun
 
     useEffect(() => {
         const fetchCountiresData = async() => {
-            const res = await fetch("https://restcountries.com/v3.1/all");
+            const res = await fetch("https://restcountries.com/v3.1/all?fields=name,flags,population,region,capital");
             const countries = await res.json();
             setcountries(countries);
         }
